@@ -4,5 +4,5 @@ A simulation of an E-Commerce system that sells various types of products to reg
 it to them. The system will also keep record of all its registered customers, products, and shipped and current orders.
 
 ## Technologies
-Java
+Java   
 Git
